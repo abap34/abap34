@@ -9,3 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abap34&hide=jupyter%20notebook)
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=abap34&repo=DeepShiba.jl)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=abap34&repo=SignateStudentCup-13th-Solution)

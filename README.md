@@ -10,4 +10,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=abap34&repo=DeepShiba.jl)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=abap34&repo=SignateStudentCup-13th-Solution)
+![](https://github-readme-stats.vercel.app/api/pin/?username=abap34&repo=ECG-classification)

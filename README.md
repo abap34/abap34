@@ -6,5 +6,5 @@
 </p>
 
 [![](https://raw.githubusercontent.com/abap34/abap34/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abap34&hide=jupyter%20notebook,%20HTML,%20SCSS)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abap34&hide=jupyter%20notebook,%20HTML,%20SCSS&?count_private=true&layout=compact)
 

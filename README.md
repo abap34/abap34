@@ -10,7 +10,7 @@
 
 Lightweight Automatic Differentiation & DeepLearning Framework implemented in pure Julia.
 
-The framework depends on very few external packages. 
+This framework depends on very few external packages. 
 (Only packages for plotting and using GPUs.)
 
 

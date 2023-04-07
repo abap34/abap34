@@ -2,5 +2,6 @@
 
 
  
-- B1 | Studying computer science at Tokyo Institute of Technology
+- B2 
+- Studying computer science at Tokyo Institute of Technology
 

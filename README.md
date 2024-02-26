@@ -1,6 +1,6 @@
 <h1>abap34</h1>
 
-B2 at Tokyo Institute of Technology, Department of Computer Science
+Tokyo Institute of Technology, Department of Computer Science, B2
 
 For more information about me, please visit **[abap34.com](https://abap34.com)**
 

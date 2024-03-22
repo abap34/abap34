@@ -4,4 +4,4 @@ Tokyo Institute of Technology, Department of Computer Science, B2
 
 For more information about me, please visit **[abap34.com](https://abap34.com)**
 
-![](https://readme-stats-three-psi.vercel.app/api/top-langs/?username=abap34&layout=compact&langs_count=10&hide=Jupyter%20Notebook,HTML&disable_animations=true)
+![](https://github-readme-stats-git-featuredisplaybytes-abap34.vercel.app/api/top-langs?username=abap34&hide=jupyter%20notebook,HTML&display_bytes=true&langs_count=10&count_private=true&layout=donut)

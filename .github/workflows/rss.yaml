@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v4
     - uses: sarisia/actions-readme-feed@v1
       with:
-        url: 'https://note.sarisia.cc/index.xml'
+        url: 'https://www.abap34.com/rss.xml'
         file: 'README.md'
     - run: |
         git config --global user.name "${{ github.actor }}"

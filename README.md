@@ -14,9 +14,9 @@ Tokyo Institute of Technology, Department of Computer Science, B3
 ### My Blog (https://www.abap34.com/posts.html) RSS Feed 📝 
 
 <!-- feed start -->
-- Oct 12 - [Gmail から iCloud カスタムドメインメールを扱えなかった](https://note.sarisia.cc/entry/you-cannot-gmailify-icloud-customdomain/)
-- Jan 03 - [Slash CommandsでサーバレスなDiscordアプリを作る](https://note.sarisia.cc/entry/discord-slash-commands/)
-- Nov 19 - [はてブを見たくない人のためのChrome拡張を作った](https://note.sarisia.cc/entry/no-hatena-bookmark/)
-- Oct 07 - [GitHub Codespaces カスタマイズのコツ](https://note.sarisia.cc/entry/customizing-codespaces/)
-- Sep 27 - [GitHub Actions ランタイムを多言語化するアクションを作った](https://note.sarisia.cc/entry/github-actions-setup-icu/)
+- Aug 07 - [脚注機能の実装に関するメモ](https://abap34.com/posts/footnote_implement.html)
+- Jul 01 - [オンラインジャッジを作った](https://abap34.com/posts/oj_abap34.html)
+- Jun 30 - [最急降下法の収束定理の主張とその証明](https://abap34.com/posts/gd_convergence_theorem.html)
+- May 14 - [pybind11 を使って C++の関数をバインドして Pythonから呼び出す (m1mac)](https://abap34.com/posts/pybind11.html)
+- May 12 - [mini Kaggle を streamlit で作った](https://abap34.com/posts/dacq.html)
 <!-- feed end -->

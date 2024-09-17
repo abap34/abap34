@@ -10,3 +10,8 @@ Tokyo Institute of Technology, Department of Computer Science, B3
 
 
 ... Everything about computing is what I love :smile:
+
+### My Blog RSS Feed 📝 
+
+<!-- feed start -->
+<!-- feed end -->

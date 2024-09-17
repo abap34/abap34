@@ -3,7 +3,7 @@ name: blog RSS
 on:
   push:
   schedule:
-    - cron: '0 * * * *'
+   - cron: '* */24 * * *'
   workflow_dispatch:
     
 jobs:

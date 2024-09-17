@@ -1,15 +1,13 @@
 name: blog RSS
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+on: [push]
+
     
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
-    
+
     steps:
     - uses: actions/checkout@v4
     - uses: sarisia/actions-readme-feed@v1

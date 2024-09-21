@@ -12,9 +12,6 @@ Tokyo Institute of Technology, Department of Computer Science, B3
 ... Everything about computing is what I love :smile:
 
 
-![](https://github-readme-stats-git-featuredisplayb-a97b36-abap34s-projects.vercel.app/api/top-langs?username=abap34&hide=jupyter%20notebook,HTML,Rich%20Text%20Format,CSS,SCSS&stats_format=bytes_long&langs_count=10&count_private=true&layout=compact&disable_animations=true&card_width=340)
-
-
 
 ### My Blog (https://www.abap34.com/posts.html) RSS Feed 📝 
 

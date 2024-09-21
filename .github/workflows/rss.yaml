@@ -17,6 +17,7 @@ jobs:
       with:
         url: 'https://www.abap34.com/rss.xml'
         file: 'README.md'
+        max_entry: 7
     - run: |
         git config --global user.name "${{ github.actor }}"
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"

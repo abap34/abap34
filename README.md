@@ -13,7 +13,7 @@ Tokyo Institute of Technology, Department of Computer Science, B3
 
 
 
-### My Blog (https://www.abap34.com/posts.html) RSS Feed 📝 
+### My Blog (https://www.abap34.com/blog) RSS Feed 📝 
 
 <!-- feed start -->
 - Sep 21 - [Julia Compiler Internals (02) - Lowering (2) for の linearize](https://abap34.com/posts/jci_02.html)

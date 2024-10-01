@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.repository_owner == 'abap34' && github.repository_owner || 'abap34' }} # to preserve the username in the forked repository

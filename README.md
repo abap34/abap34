@@ -1,6 +1,6 @@
 ## abap34
 
-Tokyo Institute of Technology, Department of Computer Science, B3
+Institute of Science Tokyo, Department of Computer Science, B3
 
 - Particular interests:
   - Machine Learning

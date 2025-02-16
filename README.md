@@ -11,6 +11,11 @@ Tokyo Institute of Technology, Department of Computer Science, B3
 
 ... Everything about computing is what I love :smile:
 
+## Links
+
+- [Notable Works](https://www.abap34.com/works)
+- [Notable Articles](https://www.abap34.com/articles)
+- [Blog](https://www.abap34.com/blog)
 
 
 ### My Blog (https://www.abap34.com/blog) RSS Feed 📝 

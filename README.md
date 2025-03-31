@@ -1,6 +1,6 @@
 ## abap34
 
-Institute of Science Tokyo, Department of Computer Science, B3
+Institute of Science Tokyo, Department of Computer Science, B4
 
 Everything about computing is what I love :smile:
 

@@ -1,6 +1,6 @@
 ## abap34
 
-B4 @ Institute of Science Tokyo, Department of Computer Science, School of Computing, [Programming Systems Group](https://www.psg.c.titech.ac.jp/)
+B4 @ Institute of Science Tokyo, School of Computing, Department of Computer Science, [Programming Systems Group](https://www.psg.c.titech.ac.jp/)
 
 Everything about computing is what I love :smile:
 

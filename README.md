@@ -15,7 +15,7 @@ Everything about computing is what I love :smile:
 
 <!-- feed start -->
 - May 09 - [Google Summer of Code に Proposal が採択されました！](https://abap34.com/posts/gsoc2025.html)
-- Apr 07 - [定数伝播の MOP 解の決定不能性の証明](https://abap34.com/posts/mop_undeciable.html)
+- Apr 07 - [定数伝播の MOP 解の計算不能性の証明](https://abap34.com/posts/mop_undeciable.html)
 - Mar 31 - [2024年度後期振り返り](https://abap34.com/posts/hurikaeri_2024_1.html)
 - Mar 01 - [ROC-AUC の解釈](https://abap34.com/posts/auc.html)
 - Feb 16 - [Julia Compiler Internals (06) - Implementing Small Julia Compiler](https://abap34.com/posts/jci_06.html)

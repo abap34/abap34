@@ -4,9 +4,6 @@ Undergraduate student at [Programming Systems Group](https://www.psg.c.titech.ac
 
 Everything about computing is what I love :smile:
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=abap34&stats_format=bytes&hide=jupyter%20notebook,HTML,Rich%20Text%20Format,%20CSS,%20SCSS,mupad&langs_count=12&layout=compact)
-
 ## Links
 
 - [My Website](https://www.abap34.com)

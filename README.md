@@ -1,6 +1,6 @@
 ## abap34
 
-- Graduate student, [Programming Systems Group](https://www.psg.c.titech.ac.jp/), Institute of Science Tokyo (formerly Tokyo Institute of Technology)
+- Graduate student, [Programming Systems Group](https://www.psg.c.titech.ac.jp/), Institute of Science Tokyo
 - Research Interest: Programming Language Theory and Systems, focusing on Program Analysis (especially Abstract Interpretation), Theorem Prover, and Optimizing Compilers.
 - Website: [abap34.com](https://www.abap34.com/)
 - Contact: [@abap34 on Twitter](https://x.com/abap34) / `yuchi_at_abap34.com`
